@@ -1,0 +1,54 @@
+{
+  "equipos": [
+    {
+      "nombre": "Instituto Atlético Central Córdoba",
+      "apodo": "La Gloria",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Racing Club",
+      "apodo": "La Academiaa"
+    },
+    {
+      "nombre": "Newells",
+      "apodo": "La Lepra Rosarina",
+      "id": 3
+    },
+    {
+      "nombre": "Defensa y Justicia",
+      "apodo": "El Halcon",
+      "id": 4
+    },
+    {
+      "nombre": "River Plate",
+      "apodo": "Los Millonarios",
+      "id": 5
+    },
+    {
+      "nombre": "Godoy Cruz",
+      "apodo": "El Tomba",
+      "id": 6
+    },
+    {
+      "nombre": "Juventus",
+      "apodo": "La Vechia Seniora",
+      "id": 7
+    },
+    {
+      "nombre": "Manchester United",
+      "apodo": "Red Devils",
+      "id": 8
+    },
+    {
+      "nombre": "Manchester City",
+      "apodo": "Citicens",
+      "id": 9
+    },
+    {
+      "nombre": "Ateltico Rafaela ",
+      "apodo": "La Crema",
+      "id": 10
+    }
+  ]
+}

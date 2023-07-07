@@ -1,0 +1,56 @@
+input {
+    width: 100%;
+    height: 2rem;
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+textarea {
+    resize: none;
+    width: 100%;
+    height: 12rem;
+}
+
+
+button {
+    padding: 1rem 8rem;
+    border-radius: 15px;
+    font-size: 1rem;
+}
+
+input,
+textarea {
+    font-size: 1.5rem;
+}
+
+.invalid {
+    border: 3px solid red;
+}
+
+.valid {
+    border: 3px solid green;
+}
+
+.error {
+    background-color: red;
+    width: 100%;
+    margin: 0;
+    margin-top: -0.3rem;
+    color: white;
+}
+
+.succesfull {
+    background-color: green;
+    color: white;
+    font-size: 2rem;
+    width: 100%;
+    height: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
